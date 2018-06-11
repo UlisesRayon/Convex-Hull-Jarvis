@@ -2,6 +2,7 @@
 Find the convex hull for a data cloud is very useful. Here is my implementation to find the convex hull in two dimensions with the Jarvis' algorithm. 
 
 I invite you to run this code. There are a pair of examples here. 
+
 __This code is not bug-free__, so take care, maybe in the future I update it.
 Please, if you find a bug and you can correct it do it and help me and some more people. 
 
