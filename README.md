@@ -1,5 +1,5 @@
 # Convex-Hull-Jarvis
-Find the convex hull for a data cloud is very useful. Here is my implementation to find the convex hull in two dimensions with the Jarvis' algorithm. 
+Find the convex hull for a data cloud is very useful. Here is my implementation to find the convex hull in two dimensions with the [Jarvis' algorithm](https://en.wikipedia.org/wiki/Gift_wrapping_algorithm). 
 
 I invite you to run this code. There are a pair of examples [here](https://github.com/UlisesRayon/Convex-Hull-Jarvis/blob/master/examples.ipynb). 
 
